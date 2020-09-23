@@ -3,6 +3,7 @@ body {
 }
 header {
     background-color: black;
+    color: whitesmoke;
     text-align: center;
 }
 section {
@@ -10,5 +11,5 @@ section {
 }
 
 p {
-    
+
 }
